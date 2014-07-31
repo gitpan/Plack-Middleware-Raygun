@@ -2,7 +2,7 @@ use strict;
 use warnings;
 
 package Plack::Middleware::Raygun;
-
+$Plack::Middleware::Raygun::VERSION = '0.003';
 use parent qw(Plack::Middleware);
 
 =head1 NAME

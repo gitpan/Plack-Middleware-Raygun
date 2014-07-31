@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Plack-Middleware-Raygun,
-version 0.002:
+version 0.003:
 
   wrap around psgi application to send stuff to raygun.io.
 
